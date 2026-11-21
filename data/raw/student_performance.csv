@@ -1,0 +1,256 @@
+Student_ID,Gender,Branch,Residence,Attendance_Pct,Study_Hours_Per_Week,Sleep_Hours,Tutoring,Maths_Marks,Physics_Marks,Programming_Marks
+S1133,Male,IT,Day Scholar,62.5,14.1,6.6,No,52.0,60.0,58.0
+S1248,Male,IT,Day Scholar,67.8,8.8,5.4,No,42.0,51.0,65.0
+S1225,Female,CSE,Day Scholar,80.5,13.5,7.0,No,64.0,58.0,65.0
+S1025,Male, cse ,Hostel,70.1,10.6,8.1,Yes,38.0,62.0,60.0
+S1058,Female,IT,Day Scholar,79.7,12.7,8.0,Yes,54.0,56.0,63.0
+S1066,Male,IT,hostel,75.8,2.2,6.8,Yes,53.0,44.0,57.0
+S1003,Female,ME,Hostel,,16.9,9.0,Yes,67.0,47.0,75.0
+S1180,Female,ECE,Hostel,79.9,10.5,6.6,Yes,45.0,60.0,67.0
+S1210,Male,IT,hostel,76.3,14.5,6.2,No,53.0,68.0,36.0
+S1095,Male,CSE,Day Scholar,73.9,13.5,4.0,No,56.0,46.0,55.0
+S1242,Female,ECE,Day Scholar,76.3,13.6,6.7,No,60.0,66.0,55.0
+S1170,Male,ME,Hostel,69.0,15.2,7.7,Yes,53.0,66.0,65.0
+S1004,Female,ECE,Hostel,100.0,18.3,7.1,No,70.0,69.0,80.0
+S1097,male,IT,Day Scholar,85.4,11.4,7.9,No,,50.0,65.0
+S1201,Female,ECE,Day Scholar,76.2,3.5,6.7,Yes,,43.0,49.0
+S1023,Male,ME,Hostel,85.0,12.3,7.2,No,61.0,59.0,59.0
+S1127,Male,CSE,Day Scholar,75.4,17.3,5.0,Yes,51.0,72.0,54.0
+S1075,Male,CSE,Day Scholar,81.4,19.2,7.8,Yes,67.0,78.0,56.0
+S1089,Female,CSE,Hostel,80.4,15.4,5.9,No,49.0,56.0,65.0
+S1079,Female,IT,Hostel,64.6,4.4,6.6,No,27.0,52.0,37.0
+S1154,Female,IT,Day Scholar,84.2,10.4,7.1,No,49.0,58.0,44.0
+S1134,Male,CSE,Day Scholar,88.3,14.9,8.9,Yes,55.0,49.0,70.0
+S1063,Male,IT,Day Scholar,99.7,12.4,7.5,No,46.0,52.0,71.0
+S1123,Male,CSE,Day Scholar,58.6,6.5,6.8,No,43.0,48.0,47.0
+S1100,Female,ME,Hostel,80.9,11.0,5.4,Yes,45.0,48.0,53.0
+S1121,Male,IT,Day Scholar,73.7,9.1,7.3,No,48.0,49.0,70.0
+S1161,Male,CSE,Hostel,82.6,13.2,7.1,No,51.0,61.0,40.0
+S1217,Female,CSE,Hostel,80.3,10.6,6.7,yes,61.0,45.0,60.0
+S1112,Male,CSE,Day Scholar,66.5,9.4,8.3,Yes,53.0,55.0,66.0
+S1051,Female,CSE,Day Scholar,75.5,9.8,7.3,No,,33.0,59.0
+S1012,Female,ME,Day Scholar,78.3,7.6,8.7,No,46.0,55.0,51.0
+S1205,Male,CSE,Hostel,81.5,9.4,6.0,Yes,54.0,62.0,54.0
+S1216,Female,ECE,Day Scholar,76.4,1.0,7.6,Yes,45.0,42.0,62.0
+S1222,Female,IT,Day Scholar,67.3,14.3,5.9,No,54.0,52.0,62.0
+S1081,Male,ECE,Hostel,68.1,8.0,8.2,yes,50.0,58.0,40.0
+S1071,Female,CSE,Day Scholar,67.5,6.0,8.1,No,60.0,20.0,55.0
+S1158,Female,ECE,hostel,74.3,15.9,6.2,No,50.0,55.0,52.0
+S1188,Female,CSE,Day Scholar,89.3,16.8,7.4,No,70.0,76.0,78.0
+S1220,Female,IT,Hostel,69.5,9.3,6.0,Yes,55.0,57.0,69.0
+S1053,Female,ECE,Day Scholar,87.6,14.8,8.7,No,60.0,56.0,58.0
+S1110,Female,ME,Hostel,80.7,13.7,6.7,Yes,62.0,46.0,66.0
+S1008,Male,ECE,Day Scholar,70.7,16.5,6.5,Yes,60.0,57.0,68.0
+S1061,Female,ECE,Hostel,94.1,9.8,6.3,Yes,57.0,61.0,55.0
+S1092,Female,ECE,Day Scholar,78.7,12.0,7.0,No,48.0,44.0,43.0
+S1091,Female,CSE,Day Scholar,94.8,14.5,5.2,Yes,76.0,79.0,61.0
+S1099,Female,CSE,Hostel,85.6,,7.2,No,46.0,63.0,57.0
+S1155,Female,CSE,Hostel,76.5,4.8,5.6,No,48.0,46.0,44.0
+S1009,Male,CSE,Day Scholar,69.1,14.5,7.4,No,64.0,58.0,43.0
+S1085,Male,CSE,Day Scholar,80.0,12.6,7.7,No,58.0,48.0,64.0
+S1028,Male,CSE,Day Scholar,78.3,13.8,5.3,No,61.0,66.0,66.0
+S1223,Female,ECE,Day Scholar,74.3,19.3,6.2,No,56.0,61.0,69.0
+S1067,Male,IT,Hostel,62.1,6.3,7.3,No,44.0,48.0,41.0
+S1230,Female,CSE,Day Scholar,72.2,11.9,7.1,Yes,67.0,40.0,71.0
+S1235,Male,ME,Hostel,100.0,5.6,7.8,No,67.0,56.0,71.0
+S1178,Male,ME,Hostel,79.1,18.1,5.5,No,57.0,63.0,69.0
+S1109,Female,CSE,Hostel,80.4,10.1,7.3,No,48.0,56.0,56.0
+S1126,Male,IT,Day Scholar,86.1,,5.4,Yes,60.0,53.0,54.0
+S1047,Male,IT,Hostel,54.6,12.0,5.9,No,45.0,53.0,63.0
+S1167,Female,ECE,Day Scholar,79.5,10.1,6.9,No,53.0,60.0,62.0
+S1231,Female,CSE,Day Scholar,55.9,5.7,6.8,yes,46.0,40.0,45.0
+S1149,Female,IT,Day Scholar,,8.0,6.8,No,67.0,61.0,51.0
+S1082,Female,IT,Day Scholar,73.0,11.7,7.0,No,50.0,53.0,60.0
+S1129,Female,CSE,Day Scholar,73.7,17.2,7.9,No,45.0,57.0,56.0
+S1032,Male,ME,Hostel,52.3,11.3,6.8,No,47.0,38.0,50.0
+S1250,Male,IT,Day Scholar,84.5,13.8,6.6,No,65.0,61.0,44.0
+S1087,Female,ECE,Hostel,75.9,13.7,7.5,No,52.0,63.0,56.0
+S1014,Female,ECE,hostel,79.0,6.6,6.4,No,53.0,48.0,66.0
+S1010,Male,IT,Hostel,85.9,14.4,5.5,Yes,74.0,62.0,61.0
+S1019,Male,ECE,Day Scholar,57.7,10.9,7.7,Yes,48.0,43.0,60.0
+S1096,Female,ECE,Hostel,86.3,14.5,5.6,No,58.0,55.0,82.0
+S1214,Female,ECE,Hostel,76.8,8.0,6.1,No,53.0,46.0,71.0
+S1240,Female,CSE,Hostel,80.2,15.5,7.4,Yes,52.0,54.0,69.0
+S1116,Female,ME,Day Scholar,75.0,21.1,8.6,Yes,76.0,66.0,77.0
+S1015,Female,IT,Day Scholar,80.1,8.8,6.3,No,52.0,62.0,46.0
+S1041,Female,IT,Hostel,60.9,17.5,6.6,No,54.0,57.0,62.0
+S1046,Male,ECE,Day Scholar,45.0,11.6,7.1,Yes,47.0,35.0,55.0
+S1203,Male,IT,Day Scholar,64.7,15.4,6.6,Yes,54.0,50.0,71.0
+S1033,Male,CSE,Day Scholar,51.5,10.9,7.2,Yes,59.0,34.0,55.0
+S1078,Female,ECE,Day Scholar,71.2,7.4,6.6,Yes,50.0,43.0,48.0
+S1246,Male,ME,Day Scholar,82.8,22.8,5.8,No,80.0,63.0,81.0
+S1122,Male,ECE,Hostel,74.6,1.4,7.8,Yes,36.0,40.0,42.0
+S1239,Female,CSE,Day Scholar,73.2,7.7,6.6,No,48.0,53.0,38.0
+S1029,Female,CSE,Hostel,62.9,12.0,7.6,Yes,53.0,50.0,58.0
+S1064,Male,ECE,Day Scholar,72.3,,7.1,No,55.0,54.0,60.0
+S1083,Male,ECE,Day Scholar,97.6,5.6,5.9,No,38.0,,58.0
+S1151,Male,ECE,Hostel,90.8,9.9,5.7,No,43.0,66.0,69.0
+S1200,Male,CSE,Day Scholar,83.4,10.4,7.0,No,56.0,73.0,69.0
+S1016,Male,CSE,Day Scholar,51.8,17.2,6.4,No,50.0,57.0,49.0
+S1042,Male,ECE,Hostel,61.9,11.3,5.0,No,51.0,32.0,46.0
+S1059,male,CSE,Day Scholar,76.2,15.9,6.5,No,69.0,69.0,69.0
+S1135,Male,IT,Hostel,70.1,9.7,5.3,No,44.0,53.0,59.0
+S1194,Female,ECE,Hostel,86.8,6.7,7.5,No,60.0,48.0,62.0
+S1037,Male,CSE,Day Scholar,74.7,3.6,8.3,No,53.0,31.0,58.0
+S1206,Female,CSE,Day Scholar,63.5,7.4,7.4,No,39.0,47.0,45.0
+S1171,Female,CSE,hostel,55.1,10.2,4.8,Yes,39.0,51.0,52.0
+S1228,Male,IT,Day Scholar,72.6,9.0,6.8,No,30.0,48.0,57.0
+S1052,Male,CSE,Hostel,71.3,12.1,4.9,No,38.0,51.0,50.0
+S1213,Female,CSE,Hostel,92.7,2.1,6.2,No,30.0,54.0,48.0
+S1115,Female,CSE,Day Scholar,100.0,8.5,6.9,No,59.0,48.0,65.0
+S1175,Female,CSE,Hostel,71.7,14.6,8.1,No,62.0,51.0,58.0
+S1102,Female,ECE,Hostel,78.5,19.7,6.7,Yes,55.0,65.0,73.0
+S1086,male,CSE,Day Scholar,72.2,13.5,7.5,No,47.0,63.0,64.0
+S1098,Female,CSE,Hostel,77.5,18.1,6.1,Yes,59.0,55.0,76.0
+S1227,Female,CSE,Day Scholar,74.1,16.8,5.2,Yes,59.0,62.0,64.0
+S1229,Male,ECE,Day Scholar,61.6,9.8,6.6,No,53.0,36.0,63.0
+S1139,Female,ECE,Hostel,,7.5,7.4,Yes,46.0,43.0,42.0
+S1092,Female,ECE,Day Scholar,78.7,12.0,7.0,No,48.0,44.0,43.0
+S1148,Female,IT,Hostel,85.4,17.1,,No,58.0,67.0,77.0
+S1237,Female,IT,Day Scholar,92.2,15.0,7.1,No,59.0,55.0,75.0
+S1211,Female,ECE,Day Scholar,100.0,15.0,6.4,No,60.0,91.0,65.0
+S1174,Male,ME,Day Scholar,75.6,8.7,6.1,No,38.0,51.0,60.0
+S1038,Male,IT,Hostel,77.7,8.4,8.0,Yes,43.0,62.0,59.0
+S1165,Female,IT,Day Scholar,70.5,11.8,6.8,No,72.0,43.0,58.0
+S1199,Male,CSE,Day Scholar,86.7,10.2,,No,54.0,62.0,70.0
+S1187,Male,IT,Hostel,87.5,11.1,7.4,Yes,73.0,57.0,47.0
+S1105,Female,ECE,Hostel,39.8,8.3,8.3,No,59.0,32.0,43.0
+S1106,Female,ECE,Hostel,79.6,17.9,6.5,Yes,49.0,59.0,68.0
+S1159,Male,ECE,Day Scholar,66.2,18.1,6.2,No,51.0,53.0,61.0
+S1172,Female,IT,Hostel,62.5,11.8,5.1,Yes,43.0,69.0,62.0
+S1050,Female,CSE,Day Scholar,70.1,4.0,6.3,No,21.0,34.0,72.0
+S1142,Female,IT,Hostel,79.5,13.3,7.6,Yes,55.0,54.0,56.0
+S1006,Male,ME,Day Scholar,66.5,15.9,7.7,No,69.0,53.0,43.0
+S1018,Male,CSE,Day Scholar,63.2,17.9,6.4,Yes,145.0,68.0,68.0
+S1130,Male,IT,Day Scholar,77.7,13.6,6.8,No,49.0,58.0,61.0
+S1103,Female,CSE,Day Scholar,70.7,19.8,7.1,Yes,68.0,50.0,52.0
+S1162,Female,ME,Day Scholar,75.0,9.1,6.6,No,59.0,39.0,64.0
+S1114,Male,IT,Day Scholar,69.2,9.2,9.0,No,44.0,58.0,49.0
+S1117,Male,ECE,Day Scholar,79.9,13.2,7.2,yes,58.0,56.0,61.0
+S1157,Female,CSE,Day Scholar,84.9,5.8,5.6,No,57.0,71.0,64.0
+S1107,Male,IT,Hostel,35.0,7.8,6.2,Yes,42.0,60.0,38.0
+S1163,Male,CSE,Hostel,79.1,9.5,7.3,Yes,61.0,67.0,50.0
+S1065,Female,ECE,Day Scholar,59.7,17.9,7.5,No,39.0,58.0,52.0
+S1027,male,IT,Day Scholar,74.4,8.0,7.8,No,41.0,52.0,60.0
+S1140,Female,CSE,Hostel,77.8,7.3,6.9,No,46.0,51.0,42.0
+S1185,Male, cse ,Day Scholar,75.4,18.5,6.6,No,62.0,,82.0
+S1224,male,ME,Day Scholar,62.1,11.2,5.6,Yes,58.0,63.0,54.0
+S1118,Male,ECE,Day Scholar,94.4,15.5,7.8,No,57.0,66.0,74.0
+S1146,Male,CSE,Day Scholar,71.4,14.5,7.1,Yes,51.0,53.0,55.0
+S1238,Male,ECE,Day Scholar,77.9,4.5,8.0,No,52.0,51.0,42.0
+S1030,Female,ECE,Day Scholar,83.7,9.0,7.2,No,59.0,48.0,50.0
+S1080,Male,ECE,Hostel,76.4,11.5,7.2,Yes,58.0,41.0,59.0
+S1141,Female,IT,Hostel,83.8,12.3,7.1,Yes,47.0,59.0,79.0
+S1132,male,ME,Hostel,63.0,8.4,6.6,Yes,59.0,39.0,44.0
+S1040,Male,ECE,Hostel,61.7,9.3,6.5,Yes,51.0,48.0,51.0
+S1169,Female,CSE,Day Scholar,92.3,12.4,7.3,Yes,55.0,80.0,
+S1055,Female,ECE,Day Scholar,64.7,10.5,6.6,No,58.0,54.0,61.0
+S1044,Male,CSE,Hostel,89.9,12.2,8.0,Yes,46.0,54.0,69.0
+S1179,Female,ME,Day Scholar,78.8,17.8,4.1,No,61.0,55.0,55.0
+S1049,Female, cse ,Hostel,68.3,2.7,8.3,No,45.0,35.0,42.0
+S1191,Female,ME,Day Scholar,80.8,15.2,5.6,No,49.0,56.0,65.0
+S1060,Female,CSE,Hostel,73.2,13.1,6.6,No,58.0,61.0,51.0
+S1144,Male,IT,Hostel,58.1,12.1,7.7,Yes,39.0,56.0,56.0
+S1054,Male,ECE,Hostel,66.9,13.9,7.4,Yes,55.0,44.0,53.0
+S1021,Male,ECE,Day Scholar,76.0,11.0,7.7,No,53.0,63.0,59.0
+S1125,Female,CSE,Day Scholar,66.1,3.0,5.4,No,35.0,41.0,
+S1245,Female,ECE,Hostel,56.5,14.6,7.7,Yes,52.0,52.0,67.0
+S1241,Female,ECE,Day Scholar,75.7,13.1,6.1,No,58.0,58.0,59.0
+S1166,Female,IT,Day Scholar,84.1,19.0,8.8,Yes,58.0,80.0,82.0
+S1077,Female,CSE,Day Scholar,,10.5,6.8,Yes,42.0,37.0,48.0
+S1208,Female, cse ,Hostel,60.1,12.2,5.2,No,48.0,57.0,49.0
+S1108,Female,CSE,Day Scholar,54.3,6.7,6.5,Yes,35.0,47.0,45.0
+S1162,Female,ME,Day Scholar,75.0,9.1,6.6,No,59.0,39.0,64.0
+S1013,Female,ECE,Day Scholar,75.2,14.8,7.3,No,68.0,52.0,56.0
+S1017,Female,IT,Hostel,83.0,15.4,6.5,No,55.0,48.0,66.0
+S1048,Female,CSE,Hostel,65.0,,6.1,No,44.0,69.0,61.0
+S1183,Female,IT,Day Scholar,70.6,12.1,7.9,Yes,58.0,44.0,33.0
+S1120,Male,ECE,Day Scholar,63.0,11.3,5.9,No,54.0,48.0,65.0
+S1022,Male,IT,Day Scholar,66.7,12.4,6.4,Yes,49.0,59.0,64.0
+S1147,Male,CSE,Hostel,69.2,18.2,7.0,No,59.0,48.0,60.0
+S1204,Male,CSE,Day Scholar,68.5,5.7,5.0,No,41.0,52.0,72.0
+S1131,Female,CSE,Day Scholar,82.4,15.1,4.5,Yes,80.0,80.0,60.0
+S1198,Female,ME,Day Scholar,63.5,12.7,6.5,Yes,39.0,64.0,63.0
+S1233,Female,ME,Hostel,77.7,15.9,5.5,No,64.0,48.0,67.0
+S1074,Male,CSE,Hostel,92.2,21.8,9.0,No,71.0,,99.0
+S1031,Female,ECE,Day Scholar,75.8,11.1,5.2,Yes,67.0,47.0,62.0
+S1218,Male,CSE,Hostel,73.2,7.3,6.4,No,29.0,,59.0
+S1034,Male,IT,Hostel,74.9,19.1,7.4,No,39.0,69.0,85.0
+S1181,Female,ME,Hostel,82.4,13.5,6.6,Yes,76.0,62.0,74.0
+S1209,Male,CSE,Hostel,72.6,3.7,6.1,No,47.0,34.0,40.0
+S1156,Female,ECE,Day Scholar,76.6,11.3,7.5,Yes,52.0,54.0,61.0
+S1226,Male,ME,Day Scholar,92.3,6.1,7.5,Yes,60.0,62.0,
+S1124,Male,IT,Hostel,71.9,4.8,5.5,No,39.0,48.0,49.0
+S1068,Male,CSE,Day Scholar,66.0,7.3,6.4,Yes,70.0,44.0,49.0
+S1164,Male,CSE,Hostel,83.0,15.1,4.7,No,74.0,60.0,66.0
+S1101,Female,ME,Hostel,89.4,15.0,8.2,Yes,60.0,47.0,70.0
+S1150,Female,CSE,Hostel,96.5,18.7,6.2,Yes,75.0,75.0,63.0
+S1195,Male,CSE,Day Scholar,68.3,11.9,5.1,Yes,40.0,66.0,80.0
+S1249,Male,IT,Day Scholar,75.1,13.7,5.4,No,55.0,62.0,58.0
+S1232,Male,IT,Day Scholar,64.0,12.9,5.3,No,42.0,53.0,34.0
+S1062,Male,IT,Hostel,67.5,14.8,6.2,No,51.0,61.0,61.0
+S1036,Male,CSE,Day Scholar,73.8,11.0,7.1,Yes,59.0,70.0,64.0
+S1011,Female,IT,Day Scholar,75.4,14.1,7.2,Yes,46.0,67.0,71.0
+S1244,male,IT,Hostel,58.2,13.9,4.5,Yes,56.0,55.0,84.0
+S1072,Male,IT,Day Scholar,86.8,8.1,8.2,No,63.0,65.0,62.0
+S1250,Male,IT,Day Scholar,84.5,13.8,6.6,No,65.0,61.0,44.0
+S1236,Female,ECE,Day Scholar,68.0,11.5,4.6,No,42.0,33.0,57.0
+S1094,Female,IT,Hostel,61.2,10.7,6.4,No,42.0,49.0,51.0
+S1160,Male,ECE,Hostel,70.0,8.8,8.1,No,42.0,54.0,59.0
+S1119,male,IT,Hostel,76.6,10.0,6.1,Yes,34.0,51.0,69.0
+S1145,Female,IT,Day Scholar,79.0,14.3,5.4,yes,55.0,52.0,61.0
+S1215,Female,ECE,Hostel,79.9,16.9,7.6,No,60.0,45.0,65.0
+S1002,Female,IT,Day Scholar,76.6,9.4,5.8,No,54.0,41.0,56.0
+S1234,Female,IT,Day Scholar,90.8,13.2,6.8,No,67.0,60.0,44.0
+S1084,Male,CSE,Day Scholar,73.0,9.0,7.6,No,58.0,46.0,58.0
+S1243,Female,CSE,Hostel,70.1,19.4,5.2,No,60.0,68.0,
+S1196,Male,CSE,Hostel,84.7,20.0,5.9,Yes,71.0,61.0,82.0
+S1088,Male,IT,Day Scholar,75.1,6.7,6.5,No,33.0,33.0,71.0
+S1138,Male,IT,Hostel,80.6,9.8,7.2,Yes,55.0,59.0,65.0
+S1005,Male,CSE,Day Scholar,85.2,14.0,6.1,No,60.0,50.0,56.0
+S1039,Female, cse ,Day Scholar,86.4,10.9,4.0,Yes,51.0,74.0,85.0
+S1207,Male,CSE,Day Scholar,80.3,8.1,7.2,No,46.0,42.0,52.0
+S1202,Female,ME,Day Scholar,65.9,13.0,8.2,No,34.0,41.0,67.0
+S1221,Male,CSE,Hostel,88.6,13.6,5.7,No,,64.0,64.0
+S1035,Female,IT,Day Scholar,72.3,11.6,7.0,No,66.0,70.0,52.0
+S1193,Female,CSE,Hostel,75.0,13.0,5.8,No,65.0,62.0,62.0
+S1190,Female, cse ,Day Scholar,69.0,3.9,7.8,Yes,24.0,54.0,61.0
+S1113,Female,CSE,Hostel,91.4,9.3,6.7,Yes,76.0,51.0,61.0
+S1182,Male,ME,Hostel,49.7,9.5,6.4,No,52.0,32.0,49.0
+S1184,Female,CSE,Day Scholar,48.8,9.6,8.0,No,30.0,49.0,36.0
+S1153,Male,CSE,Day Scholar,79.2,12.3,5.7,Yes,51.0,64.0,58.0
+S1057,Female,IT,Day Scholar,56.6,16.1,5.4,Yes,49.0,48.0,62.0
+S1070,Female,IT,Hostel,81.7,11.0,5.2,No,53.0,61.0,70.0
+S1192,Female,CSE,Day Scholar,68.7,12.2,8.8,No,57.0,54.0,60.0
+S1045,Female,ECE,Day Scholar,69.8,12.1,5.7,No,60.0,55.0,64.0
+S1189,Male,ECE,Day Scholar,77.4,3.3,7.1,No,45.0,41.0,49.0
+S1020,Female,ECE,Hostel,74.3,7.4,5.1,No,47.0,62.0,61.0
+S1007,Female,ECE,Day Scholar,86.6,17.0,6.7,No,52.0,70.0,81.0
+S1056,Female,ECE,Day Scholar,80.7,16.1,,Yes,61.0,61.0,65.0
+S1076,Male,CSE,Hostel,91.4,10.4,7.8,Yes,62.0,59.0,58.0
+S1001,Male,ECE,Hostel,73.9,12.7,6.3,No,47.0,42.0,66.0
+S1173,Female,CSE,Hostel,62.7,11.5,7.0,Yes,51.0,56.0,65.0
+S1136,Female,CSE,Hostel,58.0,14.2,6.4,No,51.0,66.0,75.0
+S1128,Male,CSE,Day Scholar,71.6,11.8,6.9,Yes,65.0,55.0,61.0
+S1177,Female,IT,Hostel,82.4,14.4,4.9,Yes,87.0,68.0,62.0
+S1069,Female,CSE,Hostel,79.8,10.5,9.0,Yes,47.0,63.0,53.0
+S1231,Female,CSE,Day Scholar,55.9,5.7,6.8,yes,46.0,40.0,45.0
+S1168,Female,ECE,Day Scholar,60.2,16.0,6.9,Yes,46.0,47.0,40.0
+S1137,Male,ME,Day Scholar,80.3,14.3,8.5,Yes,61.0,67.0,68.0
+S1219,Male,ME,Day Scholar,92.4,15.2,6.9,No,44.0,79.0,69.0
+S1043,Male,ECE,Day Scholar,78.5,17.2,6.9,No,69.0,64.0,61.0
+S1111,Female,IT,Hostel,61.1,11.6,6.4,No,27.0,44.0,59.0
+S1090,Female,IT,Day Scholar,89.0,8.8,5.9,No,49.0,48.0,42.0
+S1073,Male,ME,Day Scholar,88.9,8.6,5.9,No,47.0,28.0,69.0
+S1024,Female,ME,Day Scholar,58.9,16.5,5.7,No,79.0,53.0,58.0
+S1143,Female,ME,Day Scholar,82.6,8.8,6.0,Yes,64.0,55.0,51.0
+S1186,Female,ECE,Hostel,74.9,13.5,4.7,Yes,48.0,62.0,58.0
+S1093,Male,IT,Day Scholar,82.1,6.5,6.7,Yes,59.0,69.0,58.0
+S1104,Male,ME,Day Scholar,79.0,7.1,9.0,No,44.0,44.0,52.0
+S1152,Female,ME,Day Scholar,73.7,16.2,,No,63.0,60.0,66.0
+S1212,Female,IT,Hostel,58.5,11.0,5.4,No,47.0,52.0,55.0
+S1068,Male,CSE,Day Scholar,66.0,7.3,6.4,Yes,70.0,44.0,49.0
+S1247,Female,ECE,Day Scholar,71.7,11.1,6.3,Yes,47.0,61.0,67.0
+S1026,Male,CSE,Hostel,68.0,13.4,8.0,No,55.0,51.0,59.0
+S1197,Female,IT,Day Scholar,83.1,15.3,8.3,No,68.0,63.0,50.0
+S1176,Female,CSE,Day Scholar,71.0,14.6,6.5,yes,46.0,62.0,43.0
